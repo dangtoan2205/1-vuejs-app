@@ -11,6 +11,7 @@
   "dependencies": {
     "ant-design-vue": "^3.2.11",
     "bootstrap": "^5.2.0-beta1",
+    "pinia": "^2.0.20",
     "vue": "^3.2.37",
     "vue-router": "^4.1.3"
   },

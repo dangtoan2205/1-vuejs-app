@@ -1,9 +1,9 @@
-#install project vuejs
+# install project vuejs
 npm create vite@latest
 npm install
 
-#install bootstrap
+# install bootstrap
 npm i bootstrap@5.2.0-beta1
 
-#install antdv
+# install antdv
 npm i --save ant-design-vue
